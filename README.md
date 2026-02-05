@@ -11,7 +11,7 @@ Process consultant transitioning into AI & automation-focused product roles.
 - Procurement AI Assistant (LLM + RAG)
 
 ### 🛠 Tech Stack
-Python, SQL, LangChain, OpenAI APIs, UiPath, Workato, Postgres
+- Python, SQL, LangChain, OpenAI APIs, UiPath, Workato, Postgres
 
 ### 📫 Let’s connect
-LinkedIn: www.linkedin.com/in/gyanesh-kumar-6ab4136b | Resume
+- LinkedIn: www.linkedin.com/in/gyanesh-kumar-6ab4136b
