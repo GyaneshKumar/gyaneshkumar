@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I’m Gyanesh
 
-<!--
-**GyaneshKumar/gyaneshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Process consultant transitioning into AI & automation-focused product roles.
 
-Here are some ideas to get you started:
+### 🔍 What I work on
+- AI agents for enterprise workflows
+- Process mining & automation (UiPath, Workato)
+- Procurement & RevOps AI use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- Procurement AI Assistant (LLM + RAG)
+
+### 🛠 Tech Stack
+Python, SQL, LangChain, OpenAI APIs, UiPath, Workato, Postgres
+
+### 📫 Let’s connect
+LinkedIn: www.linkedin.com/in/gyanesh-kumar-6ab4136b | Resume
