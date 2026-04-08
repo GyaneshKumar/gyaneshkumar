@@ -10,7 +10,7 @@ I'm focused on applied AI: taking models from research to real, measurable outco
 
 ### What I'm Working On
 
-| Project | What It Does | Stack |
+| Project | What It Does | Key Result |
 |---------|-------------|-------|
 | [Local LLM Benchmark Suite](https://github.com/gyaneshkumar/local-llm-benchmark-suite) | Model comparison study | Phi-4 Mini: X tok/s, Q4→Q5: +Y% quality |
 | [Production RAG](link) | RAG with CI evaluation | RAGAS faithfulness: X% |
