@@ -12,12 +12,11 @@ I'm focused on applied AI: taking models from research to real, measurable outco
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Local LLM Benchmark Suite](https://github.com/gyaneshkumar/local-llm-benchmark-suite) | Performance comparison of small language models (3–7B) running on consumer hardware | Python, Ollama, FastAPI, Pydantic |
-| *Project 2 — coming soon* | | |
-| *Project 3 — coming soon* | | |
-| *Project 4 — coming soon* | | |
-| *Project 5 — coming soon* | | |
-
+| [Local LLM Benchmark Suite](https://github.com/gyaneshkumar/local-llm-benchmark-suite) | Model comparison study | Phi-4 Mini: X tok/s, Q4→Q5: +Y% quality |
+| [Production RAG](link) | RAG with CI evaluation | RAGAS faithfulness: X% |
+| [LLM Observability](link) | Tracing + regression gating | P95 latency: Xms |
+| [Fine-Tuning Pipeline](link) | LoRA + DPO | JSON validity: X% → Y% |
+| [Voice Assistant](link) | Real-time ASR→LLM→TTS | E2E latency: Xms P50 |
 ---
 
 ### Core Skills
